@@ -27,7 +27,7 @@ public class Mini_Project4 {
         
         double h = Math.sqrt((x * x) + (y * y));
         
-        System.out.print("Hipotenüs: " + h);
+        System.out.print("Hipotenüs:" + h);
                 
     }
 }
