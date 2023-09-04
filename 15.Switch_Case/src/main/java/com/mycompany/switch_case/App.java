@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) {
-        
         /*
         switch(op){
             case durum1:
@@ -33,7 +32,9 @@ public class App {
         
         Scanner a = new Scanner(System.in);
         
+        System.out.print("İşlem Tipini Seçiniz:");
         int islem = a.nextInt();
+        
         
         switch (islem) {
             case 1:
