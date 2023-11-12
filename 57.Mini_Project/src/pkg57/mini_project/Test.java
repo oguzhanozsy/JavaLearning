@@ -110,5 +110,9 @@ public class Test {
             
         }
     }
+
+    private static void sarkici_goruntule() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
 }
